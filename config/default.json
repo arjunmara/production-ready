@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://arjun:arjun123!@cluster0-nenha.mongodb.net/test?retryWrites=true&w=majority",
+  "jwt_secret": "thisisnodejs"
+}
